@@ -1,0 +1,12 @@
+version: "2.2"
+
+services:
+  cypressV1:
+      image: cypress/included:4.0.2
+      ipc: host
+      volumes:
+        - ./:/tests/
+        - /dev/shm:/dev/shm
+      working_dir: /tests/ModernTests/ModernTestsV2
+      mem_limit: 3072m
+      cpu_count: 2

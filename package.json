@@ -4,16 +4,16 @@
   "description": "hacking time",
   "main": "index.js",
   "scripts": {
-    "test:traditionalTests:v1": "docker-compose -f docker-compose-v1.yml up  > Traditional-V1-TestResults.txt",
-    "test:traditionalTests:v2": "docker-compose -f docker-compose-v2.yml up  > Traditional-V2-TestResults.txt",
-    "lint": "eslint TraditionalTestsV1/"
+    "test:traditionalTests:v1": "docker-compose -f docker-compose-traditional-v1.yml up  > Traditional-V1-TestResults.txt",
+    "test:traditionalTests:v2": "docker-compose -f docker-compose-traditional-v2.yml up  > Traditional-V2-TestResults.txt",
+    "test:modernTests:v1": "docker-compose -f docker-compose-modern-v1.yml up",
+    "test:modernTests:v2": "docker-compose -f docker-compose-modern-v2.yml up",
+    "lint": "eslint TraditionalTests ModernTests"
   },
   "author": "matt lowry",
   "license": "ISC",
-  "dependencies": {
-    "wait-on": "5.0.0"
-  },
   "devDependencies": {
+    "@applitools/eyes-cypress":"3.11.1",
     "cypress": "4.6.0",
     "eslint": "^7.1.0",
     "eslint-config-standard": "^14.1.1",

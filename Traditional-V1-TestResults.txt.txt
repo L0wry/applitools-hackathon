@@ -1,0 +1,216 @@
+Attaching to applitools-hackathon_cypressV1Chrome_1, applitools-hackathon_cypressV1Firefox_1
+[36mcypressV1Chrome_1   |[0m 
+[33mcypressV1Firefox_1  |[0m 
+[36mcypressV1Chrome_1   |[0m [90m====================================================================================================[39m
+[36mcypressV1Chrome_1   |[0m 
+[36mcypressV1Chrome_1   |[0m [0m  ([4m[1mRun Starting[22m[24m)[0m
+[36mcypressV1Chrome_1   |[0m 
+[33mcypressV1Firefox_1  |[0m [90m====================================================================================================[39m
+[33mcypressV1Firefox_1  |[0m 
+[33mcypressV1Firefox_1  |[0m [0m  ([4m[1mRun Starting[22m[24m)[0m
+[33mcypressV1Firefox_1  |[0m 
+[36mcypressV1Chrome_1   |[0m [90m  ┌[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m┐[39m
+[36mcypressV1Chrome_1   |[0m [90m  │[39m [90mCypress:[39m    4.0.2                                                                              [90m│[39m
+[36mcypressV1Chrome_1   |[0m [90m  │[39m [90mBrowser:[39m    Chrome 80                                                                          [90m│[39m
+[36mcypressV1Chrome_1   |[0m [90m  │[39m [90mSpecs:[39m      [0m1 found (runAll.test.js)[0m                                                           [90m│[39m
+[36mcypressV1Chrome_1   |[0m [90m  └[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m┘[39m
+[36mcypressV1Chrome_1   |[0m 
+[36mcypressV1Chrome_1   |[0m 
+[36mcypressV1Chrome_1   |[0m [90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m
+[36mcypressV1Chrome_1   |[0m                                                                                                     
+[36mcypressV1Chrome_1   |[0m   Running:  [90mrunAll.test.js[39m                                                                  [90m(1 of 1)[39m
+[33mcypressV1Firefox_1  |[0m [90m  ┌[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m┐[39m
+[33mcypressV1Firefox_1  |[0m [90m  │[39m [90mCypress:[39m    4.0.2                                                                              [90m│[39m
+[33mcypressV1Firefox_1  |[0m [90m  │[39m [90mBrowser:[39m    Firefox 72                                                                         [90m│[39m
+[33mcypressV1Firefox_1  |[0m [90m  │[39m [90mSpecs:[39m      [0m1 found (runAll.test.js)[0m                                                           [90m│[39m
+[33mcypressV1Firefox_1  |[0m [90m  └[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m┘[39m
+[33mcypressV1Firefox_1  |[0m 
+[33mcypressV1Firefox_1  |[0m 
+[33mcypressV1Firefox_1  |[0m [90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m
+[33mcypressV1Firefox_1  |[0m                                                                                                     
+[33mcypressV1Firefox_1  |[0m   Running:  [90mrunAll.test.js[39m                                                                  [90m(1 of 1)[39m
+[36mcypressV1Chrome_1   |[0m 
+[36mcypressV1Chrome_1   |[0m [0m[0m
+[36mcypressV1Chrome_1   |[0m [0m  Task 1 – Cross-Device Elements Test for device: laptop[0m
+[33mcypressV1Firefox_1  |[0m 
+[33mcypressV1Firefox_1  |[0m [0m[0m
+[33mcypressV1Firefox_1  |[0m [0m  Task 1 – Cross-Device Elements Test for device: laptop[0m
+[36mcypressV1Chrome_1   |[0m   [32m  ✓[0m[90m element: searchBar (#DIV__customsear__41) should be.visible for veiwport: [1200, 700] [0m[31m (4134ms)[0m
+[36mcypressV1Chrome_1   |[0m   [32m  ✓[0m[90m element: leftSideNav (#ASIDE__collg__67) should be.visible for veiwport: [1200, 700] [0m[31m (1598ms)[0m
+[36mcypressV1Chrome_1   |[0m   [32m  ✓[0m[90m element: mainMenu (#DIV__mainmenu__15) should be.visible for veiwport: [1200, 700] [0m[31m (989ms)[0m
+[36mcypressV1Chrome_1   |[0m   [32m  ✓[0m[90m element: leadProductImage (#DIV__topbanner__187) should be.visible for veiwport: [1200, 700] [0m[31m (1700ms)[0m
+[36mcypressV1Chrome_1   |[0m   [32m  ✓[0m[90m element: basketCount (#STRONG____50) should be.visible for veiwport: [1200, 700] [0m[31m (1185ms)[0m
+[33mcypressV1Firefox_1  |[0m   [32m  ✓[0m[90m element: searchBar (#DIV__customsear__41) should be.visible for veiwport: [1200, 700] [0m[31m (4643ms)[0m
+[36mcypressV1Chrome_1   |[0m 
+[36mcypressV1Chrome_1   |[0m [0m  Task 1 – Cross-Device Elements Test for device: tablet[0m
+[36mcypressV1Chrome_1   |[0m   [32m  ✓[0m[90m element: searchBar (#DIV__customsear__41) should be.visible for veiwport: [768, 700] [0m[31m (1483ms)[0m
+[36mcypressV1Chrome_1   |[0m   [32m  ✓[0m[90m element: leftSideNav (#ASIDE__collg__67) should not.be.visible for veiwport: [768, 700] [0m[31m (894ms)[0m
+[33mcypressV1Firefox_1  |[0m   [32m  ✓[0m[90m element: leftSideNav (#ASIDE__collg__67) should be.visible for veiwport: [1200, 700] [0m[31m (2251ms)[0m
+[36mcypressV1Chrome_1   |[0m   [32m  ✓[0m[90m element: mainMenu (#DIV__mainmenu__15) should not.be.visible for veiwport: [768, 700] [0m[31m (1878ms)[0m
+[33mcypressV1Firefox_1  |[0m   [32m  ✓[0m[90m element: mainMenu (#DIV__mainmenu__15) should be.visible for veiwport: [1200, 700] [0m[31m (2376ms)[0m
+[36mcypressV1Chrome_1   |[0m   [32m  ✓[0m[90m element: leadProductImage (#DIV__topbanner__187) should be.visible for veiwport: [768, 700] [0m[31m (786ms)[0m
+[36mcypressV1Chrome_1   |[0m   [32m  ✓[0m[90m element: basketCount (#STRONG____50) should be.visible for veiwport: [768, 700] [0m[31m (1606ms)[0m
+[36mcypressV1Chrome_1   |[0m 
+[36mcypressV1Chrome_1   |[0m [0m  Task 1 – Cross-Device Elements Test for device: mobile[0m
+[33mcypressV1Firefox_1  |[0m   [32m  ✓[0m[90m element: leadProductImage (#DIV__topbanner__187) should be.visible for veiwport: [1200, 700] [0m[31m (1767ms)[0m
+[36mcypressV1Chrome_1   |[0m   [32m  ✓[0m[90m element: searchBar (#DIV__customsear__41) should not.be.visible for veiwport: [500, 700] [0m[31m (852ms)[0m
+[33mcypressV1Firefox_1  |[0m   [32m  ✓[0m[90m element: basketCount (#STRONG____50) should be.visible for veiwport: [1200, 700] [0m[31m (1532ms)[0m
+[33mcypressV1Firefox_1  |[0m 
+[33mcypressV1Firefox_1  |[0m [0m  Task 1 – Cross-Device Elements Test for device: tablet[0m
+[36mcypressV1Chrome_1   |[0m   [32m  ✓[0m[90m element: leftSideNav (#ASIDE__collg__67) should not.be.visible for veiwport: [500, 700] [0m[31m (1399ms)[0m
+[36mcypressV1Chrome_1   |[0m   [32m  ✓[0m[90m element: mainMenu (#DIV__mainmenu__15) should not.be.visible for veiwport: [500, 700] [0m[31m (809ms)[0m
+[33mcypressV1Firefox_1  |[0m   [32m  ✓[0m[90m element: searchBar (#DIV__customsear__41) should be.visible for veiwport: [768, 700] [0m[31m (1724ms)[0m
+[36mcypressV1Chrome_1   |[0m   [32m  ✓[0m[90m element: leadProductImage (#DIV__topbanner__187) should be.visible for veiwport: [500, 700] [0m[31m (1355ms)[0m
+[36mcypressV1Chrome_1   |[0m   [32m  ✓[0m[90m element: basketCount (#STRONG____50) should not.be.visible for veiwport: [500, 700] [0m[31m (684ms)[0m
+[36mcypressV1Chrome_1   |[0m 
+[36mcypressV1Chrome_1   |[0m [0m  Task 2 – Shopping Experience Test for laptop[0m
+[33mcypressV1Firefox_1  |[0m   [32m  ✓[0m[90m element: leftSideNav (#ASIDE__collg__67) should not.be.visible for veiwport: [768, 700] [0m[31m (1208ms)[0m
+[33mcypressV1Firefox_1  |[0m   [32m  ✓[0m[90m element: mainMenu (#DIV__mainmenu__15) should not.be.visible for veiwport: [768, 700] [0m[31m (1417ms)[0m
+[36mcypressV1Chrome_1   |[0m   [32m  ✓[0m[90m should filter by black and display two results for veiwport: [1200, 700] [0m[31m (2010ms)[0m
+[36mcypressV1Chrome_1   |[0m 
+[36mcypressV1Chrome_1   |[0m [0m  Task 2 – Shopping Experience Test for tablet[0m
+[33mcypressV1Firefox_1  |[0m   [32m  ✓[0m[90m element: leadProductImage (#DIV__topbanner__187) should be.visible for veiwport: [768, 700] [0m[31m (1598ms)[0m
+[36mcypressV1Chrome_1   |[0m   [32m  ✓[0m[90m should filter by black and display two results for veiwport: [768, 700] [0m[31m (1949ms)[0m
+[36mcypressV1Chrome_1   |[0m 
+[36mcypressV1Chrome_1   |[0m [0m  Task 2 – Shopping Experience Test for mobile[0m
+[33mcypressV1Firefox_1  |[0m   [32m  ✓[0m[90m element: basketCount (#STRONG____50) should be.visible for veiwport: [768, 700] [0m[31m (1646ms)[0m
+[33mcypressV1Firefox_1  |[0m 
+[33mcypressV1Firefox_1  |[0m [0m  Task 1 – Cross-Device Elements Test for device: mobile[0m
+[36mcypressV1Chrome_1   |[0m   [32m  ✓[0m[90m should filter by black and display two results for veiwport: [500, 700] [0m[31m (2903ms)[0m
+[33mcypressV1Firefox_1  |[0m   [32m  ✓[0m[90m element: searchBar (#DIV__customsear__41) should not.be.visible for veiwport: [500, 700] [0m[31m (2072ms)[0m
+[36mcypressV1Chrome_1   |[0m 
+[36mcypressV1Chrome_1   |[0m [0m  Task 3 –  Product Details Responsive Test for laptop[0m
+[36mcypressV1Chrome_1   |[0m   [32m  ✓[0m[90m element: mainImage (#shoe_img) should be.visible for veiwport: [1200, 700] [0m[31m (1563ms)[0m
+[33mcypressV1Firefox_1  |[0m   [32m  ✓[0m[90m element: leftSideNav (#ASIDE__collg__67) should not.be.visible for veiwport: [500, 700] [0m[31m (1712ms)[0m
+[36mcypressV1Chrome_1   |[0m   [32m  ✓[0m[90m element: rating (#SPAN__rating__76) should be.visible for veiwport: [1200, 700] [0m[31m (958ms)[0m
+[36mcypressV1Chrome_1   |[0m   [32m  ✓[0m[90m element: description (#P____83) should be.visible for veiwport: [1200, 700] [0m[31m (1234ms)[0m
+[36mcypressV1Chrome_1   |[0m   [32m  ✓[0m[90m element: addToCart (#DIV__btnaddtoca__113) should be.visible for veiwport: [1200, 700] [0m[31m (916ms)[0m
+[33mcypressV1Firefox_1  |[0m   [32m  ✓[0m[90m element: mainMenu (#DIV__mainmenu__15) should not.be.visible for veiwport: [500, 700] [0m[31m (3102ms)[0m
+[36mcypressV1Chrome_1   |[0m   [32m  ✓[0m[90m element: price (#DIV__pricemain__108) should be.visible for veiwport: [1200, 700] [0m[31m (1392ms)[0m
+[36mcypressV1Chrome_1   |[0m 
+[36mcypressV1Chrome_1   |[0m [0m  Task 3 –  Product Details Responsive Test for tablet[0m
+[36mcypressV1Chrome_1   |[0m   [32m  ✓[0m[90m element: mainImage (#shoe_img) should be.visible for veiwport: [768, 700] [0m[31m (982ms)[0m
+[33mcypressV1Firefox_1  |[0m   [32m  ✓[0m[90m element: leadProductImage (#DIV__topbanner__187) should be.visible for veiwport: [500, 700] [0m[31m (2668ms)[0m
+[36mcypressV1Chrome_1   |[0m   [32m  ✓[0m[90m element: rating (#SPAN__rating__76) should be.visible for veiwport: [768, 700] [0m[31m (1208ms)[0m
+[36mcypressV1Chrome_1   |[0m   [32m  ✓[0m[90m element: description (#P____83) should be.visible for veiwport: [768, 700] [0m[31m (1489ms)[0m
+[33mcypressV1Firefox_1  |[0m   [32m  ✓[0m[90m element: basketCount (#STRONG____50) should not.be.visible for veiwport: [500, 700] [0m[31m (1843ms)[0m
+[33mcypressV1Firefox_1  |[0m 
+[33mcypressV1Firefox_1  |[0m [0m  Task 2 – Shopping Experience Test for laptop[0m
+[36mcypressV1Chrome_1   |[0m   [32m  ✓[0m[90m element: addToCart (#DIV__btnaddtoca__113) should be.visible for veiwport: [768, 700] [0m[31m (992ms)[0m
+[36mcypressV1Chrome_1   |[0m   [32m  ✓[0m[90m element: price (#DIV__pricemain__108) should be.visible for veiwport: [768, 700] [0m[31m (1108ms)[0m
+[36mcypressV1Chrome_1   |[0m 
+[36mcypressV1Chrome_1   |[0m [0m  Task 3 –  Product Details Responsive Test for mobile[0m
+[36mcypressV1Chrome_1   |[0m   [32m  ✓[0m[90m element: mainImage (#shoe_img) should be.visible for veiwport: [500, 700] [0m[31m (1219ms)[0m
+[36mcypressV1Chrome_1   |[0m   [32m  ✓[0m[90m element: rating (#SPAN__rating__76) should be.visible for veiwport: [500, 700] [0m[31m (1117ms)[0m
+[33mcypressV1Firefox_1  |[0m   [32m  ✓[0m[90m should filter by black and display two results for veiwport: [1200, 700] [0m[31m (3915ms)[0m
+[33mcypressV1Firefox_1  |[0m 
+[33mcypressV1Firefox_1  |[0m [0m  Task 2 – Shopping Experience Test for tablet[0m
+[36mcypressV1Chrome_1   |[0m   [32m  ✓[0m[90m element: description (#P____83) should be.visible for veiwport: [500, 700] [0m[31m (1874ms)[0m
+[33mcypressV1Firefox_1  |[0m   [32m  ✓[0m[90m should filter by black and display two results for veiwport: [768, 700] [0m[31m (2327ms)[0m
+[33mcypressV1Firefox_1  |[0m 
+[33mcypressV1Firefox_1  |[0m [0m  Task 2 – Shopping Experience Test for mobile[0m
+[36mcypressV1Chrome_1   |[0m   [32m  ✓[0m[90m element: addToCart (#DIV__btnaddtoca__113) should be.visible for veiwport: [500, 700] [0m[31m (814ms)[0m
+[36mcypressV1Chrome_1   |[0m   [32m  ✓[0m[90m element: price (#DIV__pricemain__108) should be.visible for veiwport: [500, 700] [0m[31m (1299ms)[0m
+[36mcypressV1Chrome_1   |[0m 
+[36mcypressV1Chrome_1   |[0m 
+[36mcypressV1Chrome_1   |[0m [92m [0m[32m 33 passing[0m[90m (50s)[0m
+[36mcypressV1Chrome_1   |[0m 
+[33mcypressV1Firefox_1  |[0m   [32m  ✓[0m[90m should filter by black and display two results for veiwport: [500, 700] [0m[31m (2688ms)[0m
+[33mcypressV1Firefox_1  |[0m 
+[33mcypressV1Firefox_1  |[0m [0m  Task 3 –  Product Details Responsive Test for laptop[0m
+[36mcypressV1Chrome_1   |[0m 
+[36mcypressV1Chrome_1   |[0m [32m  ([4m[1mResults[22m[24m)[39m
+[36mcypressV1Chrome_1   |[0m 
+[36mcypressV1Chrome_1   |[0m [90m  ┌[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m┐[39m
+[36mcypressV1Chrome_1   |[0m [90m  │[39m [90mTests:[39m        [32m33[39m                                                                               [90m│[39m
+[36mcypressV1Chrome_1   |[0m [90m  │[39m [90mPassing:[39m      [32m33[39m                                                                               [90m│[39m
+[36mcypressV1Chrome_1   |[0m [90m  │[39m [90mFailing:[39m      [32m0[39m                                                                                [90m│[39m
+[36mcypressV1Chrome_1   |[0m [90m  │[39m [90mPending:[39m      [32m0[39m                                                                                [90m│[39m
+[36mcypressV1Chrome_1   |[0m [90m  │[39m [90mSkipped:[39m      [32m0[39m                                                                                [90m│[39m
+[36mcypressV1Chrome_1   |[0m [90m  │[39m [90mScreenshots:[39m  [32m0[39m                                                                                [90m│[39m
+[36mcypressV1Chrome_1   |[0m [90m  │[39m [90mVideo:[39m        [32mtrue[39m                                                                             [90m│[39m
+[36mcypressV1Chrome_1   |[0m [90m  │[39m [90mDuration:[39m     [32m50 seconds[39m                                                                       [90m│[39m
+[36mcypressV1Chrome_1   |[0m [90m  │[39m [90mSpec Ran:[39m     [32m[32mrunAll.test.js[32m[39m                                                                   [90m│[39m
+[36mcypressV1Chrome_1   |[0m [90m  └[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m┘[39m
+[36mcypressV1Chrome_1   |[0m 
+[36mcypressV1Chrome_1   |[0m 
+[36mcypressV1Chrome_1   |[0m [36m  ([4m[1mVideo[22m[24m)[39m
+[36mcypressV1Chrome_1   |[0m 
+[36mcypressV1Chrome_1   |[0m [90m [39m [90m-[39m  [90mStarted processing:[39m  [36mCompressing to 32 CRF[39m                                                     
+[33mcypressV1Firefox_1  |[0m   [32m  ✓[0m[90m element: mainImage (#shoe_img) should be.visible for veiwport: [1200, 700] [0m[31m (3438ms)[0m
+[33mcypressV1Firefox_1  |[0m   [32m  ✓[0m[90m element: rating (#SPAN__rating__76) should be.visible for veiwport: [1200, 700] [0m[31m (2560ms)[0m
+[33mcypressV1Firefox_1  |[0m   [32m  ✓[0m[90m element: description (#P____83) should be.visible for veiwport: [1200, 700] [0m[31m (2102ms)[0m
+[36mcypressV1Chrome_1   |[0m     Compression progress:  [36m100%[39m
+[36mcypressV1Chrome_1   |[0m [90m [39m [90m-[39m  [90mFinished processing:[39m [36m/tests/TraditionalTests/TraditionalTestsV1/cypress/videos/r[39m   [90m(10 seconds)[39m
+[36mcypressV1Chrome_1   |[0m [90m [39m                         [36munAll.test.js.mp4[39m                                                         
+[36mcypressV1Chrome_1   |[0m 
+[36mcypressV1Chrome_1   |[0m 
+[36mcypressV1Chrome_1   |[0m [90m====================================================================================================[39m
+[36mcypressV1Chrome_1   |[0m 
+[36mcypressV1Chrome_1   |[0m [0m  ([4m[1mRun Finished[22m[24m)[0m
+[36mcypressV1Chrome_1   |[0m 
+[36mcypressV1Chrome_1   |[0m 
+[36mcypressV1Chrome_1   |[0m [90m   [39m    [90mSpec[39m                                              [90mTests[39m  [90mPassing[39m  [90mFailing[39m  [90mPending[39m  [90mSkipped[39m [90m [39m
+[36mcypressV1Chrome_1   |[0m [90m  ┌[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m┐[39m
+[36mcypressV1Chrome_1   |[0m [90m  │[39m [32m✔[39m  [0mrunAll.test.js[0m                           [90m00:50[39m       [0m33[0m       [32m33[39m        [90m-[39m        [90m-[39m        [90m-[39m [90m│[39m
+[36mcypressV1Chrome_1   |[0m [90m  └[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m┘[39m
+[36mcypressV1Chrome_1   |[0m [90m   [39m [32m✔[39m  [32mAll specs passed![39m                        [90m00:50[39m       [0m33[0m       [32m33[39m        [90m-[39m        [90m-[39m        [90m-[39m [90m [39m
+[36mcypressV1Chrome_1   |[0m 
+[33mcypressV1Firefox_1  |[0m   [32m  ✓[0m[90m element: addToCart (#DIV__btnaddtoca__113) should be.visible for veiwport: [1200, 700] [0m[31m (2186ms)[0m
+[36mapplitools-hackathon_cypressV1Chrome_1 exited with code 0
+[0m[33mcypressV1Firefox_1  |[0m   [32m  ✓[0m[90m element: price (#DIV__pricemain__108) should be.visible for veiwport: [1200, 700] [0m[31m (1844ms)[0m
+[33mcypressV1Firefox_1  |[0m 
+[33mcypressV1Firefox_1  |[0m [0m  Task 3 –  Product Details Responsive Test for tablet[0m
+[33mcypressV1Firefox_1  |[0m   [32m  ✓[0m[90m element: mainImage (#shoe_img) should be.visible for veiwport: [768, 700] [0m[31m (2236ms)[0m
+[33mcypressV1Firefox_1  |[0m   [32m  ✓[0m[90m element: rating (#SPAN__rating__76) should be.visible for veiwport: [768, 700] [0m[31m (2920ms)[0m
+[33mcypressV1Firefox_1  |[0m   [32m  ✓[0m[90m element: description (#P____83) should be.visible for veiwport: [768, 700] [0m[31m (2427ms)[0m
+[33mcypressV1Firefox_1  |[0m   [32m  ✓[0m[90m element: addToCart (#DIV__btnaddtoca__113) should be.visible for veiwport: [768, 700] [0m[31m (2685ms)[0m
+[33mcypressV1Firefox_1  |[0m   [32m  ✓[0m[90m element: price (#DIV__pricemain__108) should be.visible for veiwport: [768, 700] [0m[31m (3833ms)[0m
+[33mcypressV1Firefox_1  |[0m 
+[33mcypressV1Firefox_1  |[0m [0m  Task 3 –  Product Details Responsive Test for mobile[0m
+[33mcypressV1Firefox_1  |[0m   [32m  ✓[0m[90m element: mainImage (#shoe_img) should be.visible for veiwport: [500, 700] [0m[31m (3372ms)[0m
+[33mcypressV1Firefox_1  |[0m   [32m  ✓[0m[90m element: rating (#SPAN__rating__76) should be.visible for veiwport: [500, 700] [0m[31m (8790ms)[0m
+[33mcypressV1Firefox_1  |[0m   [32m  ✓[0m[90m element: description (#P____83) should be.visible for veiwport: [500, 700] [0m[31m (7483ms)[0m
+[33mcypressV1Firefox_1  |[0m   [32m  ✓[0m[90m element: addToCart (#DIV__btnaddtoca__113) should be.visible for veiwport: [500, 700] [0m[31m (10302ms)[0m
+[33mcypressV1Firefox_1  |[0m   [32m  ✓[0m[90m element: price (#DIV__pricemain__108) should be.visible for veiwport: [500, 700] [0m[31m (9109ms)[0m
+[33mcypressV1Firefox_1  |[0m 
+[33mcypressV1Firefox_1  |[0m 
+[33mcypressV1Firefox_1  |[0m [92m [0m[32m 33 passing[0m[90m (2m)[0m
+[33mcypressV1Firefox_1  |[0m 
+[33mcypressV1Firefox_1  |[0m 
+[33mcypressV1Firefox_1  |[0m [32m  ([4m[1mResults[22m[24m)[39m
+[33mcypressV1Firefox_1  |[0m 
+[33mcypressV1Firefox_1  |[0m [90m  ┌[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m┐[39m
+[33mcypressV1Firefox_1  |[0m [90m  │[39m [90mTests:[39m        [32m33[39m                                                                               [90m│[39m
+[33mcypressV1Firefox_1  |[0m [90m  │[39m [90mPassing:[39m      [32m33[39m                                                                               [90m│[39m
+[33mcypressV1Firefox_1  |[0m [90m  │[39m [90mFailing:[39m      [32m0[39m                                                                                [90m│[39m
+[33mcypressV1Firefox_1  |[0m [90m  │[39m [90mPending:[39m      [32m0[39m                                                                                [90m│[39m
+[33mcypressV1Firefox_1  |[0m [90m  │[39m [90mSkipped:[39m      [32m0[39m                                                                                [90m│[39m
+[33mcypressV1Firefox_1  |[0m [90m  │[39m [90mScreenshots:[39m  [32m0[39m                                                                                [90m│[39m
+[33mcypressV1Firefox_1  |[0m [90m  │[39m [90mVideo:[39m        [32mtrue[39m                                                                             [90m│[39m
+[33mcypressV1Firefox_1  |[0m [90m  │[39m [90mDuration:[39m     [32m2 minutes, 1 second[39m                                                              [90m│[39m
+[33mcypressV1Firefox_1  |[0m [90m  │[39m [90mSpec Ran:[39m     [32m[32mrunAll.test.js[32m[39m                                                                   [90m│[39m
+[33mcypressV1Firefox_1  |[0m [90m  └[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m┘[39m
+[33mcypressV1Firefox_1  |[0m 
+[33mcypressV1Firefox_1  |[0m 
+[33mcypressV1Firefox_1  |[0m [36m  ([4m[1mVideo[22m[24m)[39m
+[33mcypressV1Firefox_1  |[0m 
+[33mcypressV1Firefox_1  |[0m [90m [39m [90m-[39m  [90mStarted processing:[39m  [36mCompressing to 32 CRF[39m                                                     
+[33mcypressV1Firefox_1  |[0m     Compression progress:  [36m63%[39m
+[33mcypressV1Firefox_1  |[0m [90m [39m [90m-[39m  [90mFinished processing:[39m [36m/tests/TraditionalTests/TraditionalTestsV1/cypress/videos/r[39m   [90m(14 seconds)[39m
+[33mcypressV1Firefox_1  |[0m [90m [39m                         [36munAll.test.js.mp4[39m                                                         
+[33mcypressV1Firefox_1  |[0m 
+[33mcypressV1Firefox_1  |[0m 
+[33mcypressV1Firefox_1  |[0m [90m====================================================================================================[39m
+[33mcypressV1Firefox_1  |[0m 
+[33mcypressV1Firefox_1  |[0m [0m  ([4m[1mRun Finished[22m[24m)[0m
+[33mcypressV1Firefox_1  |[0m 
+[33mcypressV1Firefox_1  |[0m 
+[33mcypressV1Firefox_1  |[0m [90m   [39m    [90mSpec[39m                                              [90mTests[39m  [90mPassing[39m  [90mFailing[39m  [90mPending[39m  [90mSkipped[39m [90m [39m
+[33mcypressV1Firefox_1  |[0m [90m  ┌[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m┐[39m
+[33mcypressV1Firefox_1  |[0m [90m  │[39m [32m✔[39m  [0mrunAll.test.js[0m                           [90m02:01[39m       [0m33[0m       [32m33[39m        [90m-[39m        [90m-[39m        [90m-[39m [90m│[39m
+[33mcypressV1Firefox_1  |[0m [90m  └[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m┘[39m
+[33mcypressV1Firefox_1  |[0m [90m   [39m [32m✔[39m  [32mAll specs passed![39m                        [90m02:01[39m       [0m33[0m       [32m33[39m        [90m-[39m        [90m-[39m        [90m-[39m [90m [39m
+[33mcypressV1Firefox_1  |[0m 
+[33mapplitools-hackathon_cypressV1Firefox_1 exited with code 0
+[0m

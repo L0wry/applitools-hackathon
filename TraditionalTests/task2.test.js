@@ -27,7 +27,7 @@ export default function runTestsForVersion (version) {
 
         cy.get(gridItemSelector).should('have.length', 9)
         filter[device]()
-        cy.get(gridItemSelector).should('have.length', 9)
+        cy.get(gridItemSelector).should('have.length', 2)
       })
     })
   }

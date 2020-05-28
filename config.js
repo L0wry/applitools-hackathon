@@ -20,11 +20,3 @@ export const platformViewports = {
         viewPorts:  [500, 700]
     }
 }
-
-export const deviceList = {
-    iphoneX: {
-        portrait:  [500, 700]
-    }
-}
-
-export const browserList = ['chrome', 'firefox'] //edge

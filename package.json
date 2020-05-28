@@ -11,10 +11,9 @@
   "author": "matt lowry",
   "license": "ISC",
   "dependencies": {
-    "wait-on":"5.0.0"
+    "wait-on": "5.0.0"
   },
   "devDependencies": {
-    "aye-spy":"4.5.1",
     "cypress": "4.6.0",
     "eslint": "^7.1.0",
     "eslint-config-standard": "^14.1.1",

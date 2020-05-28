@@ -1,4 +1,7 @@
-
+export const URLS = {
+    v1: 'https://demo.applitools.com/gridHackathonV1.html',
+    v2: 'https://demo.applitools.com/gridHackathonV2.html'
+}
 export const platforms = {
     LAPTOP: 'laptop',
     TABLET: 'tablet',

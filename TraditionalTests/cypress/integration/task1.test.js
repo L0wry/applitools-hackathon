@@ -1,6 +1,5 @@
-import { platformViewports, platforms } from '../../../deviceConfig'
+import { platformViewports, platforms, URLS } from '../../../deviceConfig'
 
-const URL = 'https://demo.applitools.com/gridHackathonV1.html'
 
 const elements = {
   searchBar: {
@@ -26,17 +25,19 @@ const elements = {
 }
 
 for (const [device, { viewPorts }] of Object.entries(platformViewports)) {
-  describe(`V1 responsiveness for device: ${device}`, () => {
-    for (const [element, test] of Object.entries(elements)) {
-      const shouldElementBeShown = test.isVisible.includes(device)
+  describe(`Task 1 – Cross-Device Elements Test for device: ${device}`, () => {
+    for (const [element, meta] of Object.entries(elements)) {
+        
+      const shouldElementBeShown = meta.isVisible.includes(device)
         ? 'be.visible'
         : 'not.be.visible'
 
-      it(`element: ${element} should ${shouldElementBeShown}`, () => {
-        cy.visit(URL)
-        const [width, height] = viewPorts
+      const [width, height] = viewPorts
+
+      it(`element: ${element} (${meta.selector}) should ${shouldElementBeShown} for veiwport: [${width}, ${height}] `, () => {
+        cy.visit(URLS.v1)
         cy.viewport(width, height)
-        cy.get(test.selector).should(shouldElementBeShown)
+        cy.get(meta.selector).should(shouldElementBeShown)
       })
     }
   })

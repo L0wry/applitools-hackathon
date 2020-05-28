@@ -1,4 +1,4 @@
-import { platformViewports, platforms, URLS } from '../../../deviceConfig'
+import { platformViewports, platforms, URLS } from '../../../config'
 
 
 const elements = {
@@ -35,7 +35,7 @@ for (const [device, { viewPorts }] of Object.entries(platformViewports)) {
       const [width, height] = viewPorts
 
       it(`element: ${element} (${meta.selector}) should ${shouldElementBeShown} for veiwport: [${width}, ${height}] `, () => {
-        cy.visit(URLS.v1)
+        cy.visit((URLS().homePage))
         cy.viewport(width, height)
         cy.get(meta.selector).should(shouldElementBeShown)
       })

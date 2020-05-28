@@ -1,7 +1,8 @@
-export const URLS = {
-    v1: 'https://demo.applitools.com/gridHackathonV1.html',
-    v2: 'https://demo.applitools.com/gridHackathonV2.html'
-}
+export const URLS = (version = 1) => ({
+    homePage: `https://demo.applitools.com/gridHackathonV${version}.html`,
+    productListing: `https://demo.applitools.com/gridHackathonProductDetailsV${version}.html`
+})
+
 export const platforms = {
     LAPTOP: 'laptop',
     TABLET: 'tablet',

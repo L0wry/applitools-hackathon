@@ -1,4 +1,4 @@
-import { platformViewports, platforms, URLS } from '../../../deviceConfig'
+import { platformViewports, platforms, URLS } from '../../../config'
 
 const showFilterSelector = '#A__openfilter__206'
 const filterBlackSelector = '#colors__Black'
@@ -21,7 +21,7 @@ for (const [device, { viewPorts }] of Object.entries(platformViewports)) {
         const [width, height] = viewPorts
 
         it(`should filter by black and display two results for veiwport: [${width}, ${height}] `, () => {
-            cy.visit(URLS.v1)
+            cy.visit(URLS().homePage)
             cy.viewport(width, height)
 
             cy.get(gridItemSelector).should('have.length', 9)

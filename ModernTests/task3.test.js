@@ -3,7 +3,7 @@ import { URLS } from '../config'
 export default function runTests (version) {
   describe('Task 3', () => {
     it('Should display product listing page correctly', () => {
-      cy.visit(URLS(version).productListing)
+      cy.visit(`${URLS().productListing}?id=1`)
 
       cy.eyesOpen({
         appName: 'UFG Hackathon',

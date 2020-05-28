@@ -12,7 +12,7 @@ Perfectly timed with lockdown and holiday! ☀️
 ## Getting Started
 
 1 - Run `yarn` from the root to install dependencies
-
+2 - Add the API key to the docker-compose files as environment vars
 2 - Run tests using the commands
 
 ``` javascript

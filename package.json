@@ -4,8 +4,8 @@
   "description": "hacking time",
   "main": "index.js",
   "scripts": {
-    "test:traditionalTests:v1": "docker-compose -f docker-compose-v1.yml up  >> Traditional-V1-TestResults.txt",
-    "test:traditionalTests:v2": "docker-compose -f docker-compose-v2.yml up  >> Traditional-V2-TestResults.txt",
+    "test:traditionalTests:v1": "docker-compose -f docker-compose-v1.yml up  > Traditional-V1-TestResults.txt",
+    "test:traditionalTests:v2": "docker-compose -f docker-compose-v2.yml up  > Traditional-V2-TestResults.txt",
     "lint": "eslint TraditionalTestsV1/"
   },
   "author": "matt lowry",

@@ -33,7 +33,7 @@ export default function runTestsForVersion (version) {
 
         const [width, height] = viewPorts
 
-        it(`element: ${element} (${meta.selector}) should ${shouldElementBeShown} for veiwport: [${width}, ${height}] `, () => {
+        it(`element: ${element} (${meta.selector}) should ${shouldElementBeShown} for viewport: [${width}, ${height}] `, () => {
           cy.visit((URLS(version).homePage))
           cy.viewport(width, height)
           cy.get(meta.selector).should(shouldElementBeShown)

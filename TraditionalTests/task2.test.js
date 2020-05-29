@@ -21,7 +21,7 @@ export default function runTestsForVersion (version) {
     describe(`Task 2 – Shopping Experience Test for ${device}`, () => {
       const [width, height] = viewPorts
 
-      it(`should filter by black and display two results for veiwport: [${width}, ${height}] `, () => {
+      it(`should filter by black and display two results for viewport: [${width}, ${height}] `, () => {
         cy.visit(URLS().homePage)
         cy.viewport(width, height)
 

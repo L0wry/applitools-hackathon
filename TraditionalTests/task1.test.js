@@ -1,4 +1,4 @@
-import { platformViewports, platforms, URLS } from '../config'
+import { platformViewports, platforms, URLS, BROWSER } from '../config'
 
 export default function runTestsForVersion (version) {
   const elements = {
@@ -25,7 +25,7 @@ export default function runTestsForVersion (version) {
   }
 
   for (const [device, { viewPorts }] of Object.entries(platformViewports)) {
-    describe(`Task 1 – Cross-Device Elements Test for device: ${device}`, () => {
+    describe(`${BROWSER} : Task 1 – Cross-Device Elements Test for device: ${device}`, () => {
       for (const [element, meta] of Object.entries(elements)) {
         const shouldElementBeShown = meta.isVisible.includes(device)
           ? 'be.visible'

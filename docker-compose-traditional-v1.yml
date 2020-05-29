@@ -11,6 +11,8 @@ services:
       command: --browser chrome
       mem_limit: 3072m
       cpu_count: 2
+      environment:
+        - CYPRESS_BROWSER=Chrome
   cypressV1Firefox:
       image: cypress/included:4.0.2
       ipc: host
@@ -21,4 +23,6 @@ services:
       command: --browser firefox
       mem_limit: 3072m
       cpu_count: 2
+      environment:
+        - CYPRESS_BROWSER=Firefox
     

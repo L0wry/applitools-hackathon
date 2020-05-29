@@ -1,4 +1,4 @@
-import { platformViewports, platforms, URLS } from '../config'
+import { platformViewports, platforms, URLS, BROWSER } from '../config'
 
 export default function runTestsForVersion (version) {
   const elements = {
@@ -25,7 +25,7 @@ export default function runTestsForVersion (version) {
   }
 
   for (const [device, { viewPorts }] of Object.entries(platformViewports)) {
-    describe(`Task 3 –  Product Details Responsive Test for ${device}`, () => {
+    describe(`${BROWSER} : Task 3 –  Product Details Responsive Test for ${device}`, () => {
       for (const [element, meta] of Object.entries(elements)) {
         const shouldElementBeShown = meta.isVisible.includes(device)
           ? 'be.visible'
@@ -34,7 +34,7 @@ export default function runTestsForVersion (version) {
         const [width, height] = viewPorts
 
         it(`element: ${element} (${meta.selector}) should ${shouldElementBeShown} for viewport: [${width}, ${height}] `, () => {
-          cy.visit(`${URLS().productListing}?id=1`)
+          cy.visit(`${URLS(version).productListing}?id=1`)
           cy.viewport(width, height)
           cy.get(meta.selector).should(shouldElementBeShown)
         })

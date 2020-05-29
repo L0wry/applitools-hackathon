@@ -20,3 +20,5 @@ export const platformViewports = {
         viewPorts:  [500, 700]
     }
 }
+
+export const BROWSER =  Cypress.env('BROWSER') || 'Undefined Browser'

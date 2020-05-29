@@ -4,15 +4,21 @@
   "description": "hacking time",
   "main": "index.js",
   "scripts": {
-    "test:traditionalTests:v1": "docker-compose -f docker-compose-traditional-v1.yml up  > Traditional-V1-TestResults.txt",
-    "test:traditionalTests:v2": "docker-compose -f docker-compose-traditional-v2.yml up  > Traditional-V2-TestResults.txt",
+    "test:traditionalTests:v1": "docker-compose -f docker-compose-traditional-v1.yml up",
+    "test:traditionalTests:v2": "docker-compose -f docker-compose-traditional-v2.yml up",
     "test:modernTests:v1": "docker-compose -f docker-compose-modern-v1.yml up",
     "test:modernTests:v2": "docker-compose -f docker-compose-modern-v2.yml up",
+    "mergeReports": "mochawesome-merge ./TraditionalTests/**/mochawesome*.json > Traditional-TestResults.json",
+    "createReport": "marge --reportDir TraditionalReport Traditional-TestResults.json ",
     "lint": "eslint TraditionalTests ModernTests"
   },
   "author": "matt lowry",
   "license": "ISC",
   "devDependencies": {
+    "mocha": "7.1.2",
+    "mochawesome-merge":"4.0.3",
+    "mochawesome":"6.1.1",
+    "mochawesome-report-generator":"5.1.0",
     "@applitools/eyes-cypress":"3.11.1",
     "cypress": "4.6.0",
     "eslint": "^7.1.0",

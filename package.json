@@ -9,7 +9,8 @@
     "test:modernTests:v1": "docker-compose -f docker-compose-modern-v1.yml up",
     "test:modernTests:v2": "docker-compose -f docker-compose-modern-v2.yml up",
     "mergeReports": "mochawesome-merge ./TraditionalTests/**/mochawesome*.json > Traditional-TestResults.json",
-    "createReport": "marge --reportDir TraditionalReport Traditional-TestResults.json ",
+    "createReportV1": "marge --reportDir TraditionalTestsReportV1 Traditional-TestResults.json ",
+    "createReportV2": "marge --reportDir TraditionalTestsReportV2 Traditional-TestResults.json ",
     "lint": "eslint TraditionalTests ModernTests"
   },
   "author": "matt lowry",

@@ -36,10 +36,16 @@ Perfectly timed with lockdown and holiday! ☀️
 
 ### Shortcomings
 
-Traditional First - 
+#### Traditional First 
+
 Whilst waiting for the API key I performed exploratory testing myself on the v1 website. As such I only covered a couple of the dynamic elements across the viewport opposed to them all. Adding more elements to test would be easy but I am sadly out of time 😩
 
-Reporting -
+#### Tests 
+
+In Task 3 I haven't clicked on on the first product first because personally I feel it's not valuable mixing a navigation test with a test that asserts how a page visually looks when I can go to that page directly. I'd add seconds to each test that ran and potentially introduce more oppurtinty for test failure. 
+
+#### Reporting
+
 I haven't completed the reporting to specification because personally, I feel cypress does a good enough job at leaving deterministic errors, screenshots and videos. (see below).
 
 I have dumped the docker-compose logs out into the named files required but I am aware this is not ideal, but it does satify the requirements. 
@@ -47,14 +53,17 @@ I have dumped the docker-compose logs out into the named files required but I am
 ![](./testNames.png)
 ![](./sceenshotFileNames.png)
 
-Technology Choice -
+#### Technology Choice 
+
 I haven't used a VR tool for the traditional tests on purpose, this has lead to the cypress tests running on V2 not finding all the defects shown by applitools which highlights the benefits of VR testing.
 
-Available Browsers -
+#### Available Browsers
 Cypress only supports Chrome and Firefox for the time being so I have been unable to complete for other browsers and devices.
 
 
-Cypress folder structure - The folder structure for cypress makes this project a bit confusing with so many mandatory cypress folders. I wouldn't usually have picked a folder structure like but it's in the requirements.
+#### Cypress folder structure 
+
+The folder structure cypress enforces makes this project a bit confusing with all the fixture, plugins folders etc. I wouldn't usually have picked a folder structure like.
 
 
 ### Notes

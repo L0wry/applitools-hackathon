@@ -53,7 +53,7 @@ Whilst waiting for the API key I performed exploratory testing myself on the v1 
 
 #### Tests
 
-In Task 3 I haven't clicked on on the first product first because personally I feel it's not valuable mixing a navigation test with a test that asserts how a page visually looks when I can go to that page directly. I'd add seconds to each test that ran and potentially introduce more oppurtinty for test failure.
+In Task 3 I haven't clicked on on the first product first because personally I feel it's not valuable mixing a navigation test with a test that asserts how a page visually looks when I can go to that page directly. It would add seconds to each test that ran and introduce more opportunity for test failure.
 
 #### Reporting
 

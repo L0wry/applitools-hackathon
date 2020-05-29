@@ -19,8 +19,8 @@ Perfectly timed with lockdown and holiday! ☀️
  yarn test:traditionalTests:v1
  yarn test:traditionalTests:v2
 
- test:modernTests:v1
- test:modernTests:v2
+ yarn test:modernTests:v1
+ yarn test:modernTests:v2
 ```
 
 ### Technologies Used
@@ -31,8 +31,8 @@ Perfectly timed with lockdown and holiday! ☀️
 
 ### Time Spent
 
-Traditional Approach - about 3 hours
-Applitools Approach - about 1.5 hours
+- Traditional Approach - about 3 hours
+- Applitools Approach - about 1.5 hours
 
 ### Shortcomings
 
